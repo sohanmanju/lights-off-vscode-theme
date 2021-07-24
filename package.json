@@ -1,0 +1,21 @@
+{
+    "name": "lights-off",
+    "displayName": "lights off",
+    "description": "Yet another dark theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "lights-off",
+                "uiTheme": "vs-dark",
+                "path": "./themes/lights-off-color-theme.json"
+            }
+        ]
+    }
+}
