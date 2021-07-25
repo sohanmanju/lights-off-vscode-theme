@@ -13,8 +13,10 @@
     "statusBar.foreground": "#000000",
     "editorLineNumber.activeForeground": "#ffffff",
     "editorGroupHeader.tabsBackground": "#161616",
+    "breadcrumb.background": "#161616",
     "activityBar.activeBackground": "#161616",
-    "titleBar.activeBackground": "#161616"
+    "titleBar.activeBackground": "#161616",
+    "editor.selectionBackground": "#4d992a85" //Change Highlight Color
   },
 
   "tokenColors": [
@@ -22,7 +24,7 @@
       "name": "Comment",
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "foreground": "#41505E"
+        "foreground": "#5e778f"
       }
     },
     {
@@ -57,35 +59,35 @@
       "name": "Storage type",
       "scope": "storage.type.class.js",
       "settings": {
-        "foreground": "#008B94"
+        "foreground": "#0097a1"
       }
     },
     {
       "name": "Meta",
       "scope": "meta",
       "settings": {
-        "foreground": "#718CA1"
+        "foreground": "#68A1F0"
       }
     },
     {
       "name": "Meta Brace",
       "scope": "meta.brace",
       "settings": {
-        "foreground": "#718CA1"
+        "foreground": "#68A1F0"
       }
     },
     {
       "name": "Punctuation",
       "scope": "punctuation",
       "settings": {
-        "foreground": "#718CA1"
+        "foreground": "#68A1F0"
       }
     },
     {
       "name": "Punctuation Parameters",
       "scope": "punctuation.definition.parameters",
       "settings": {
-        "foreground": "#718CA1"
+        "foreground": "#68A1F0"
       }
     },
     {
@@ -113,7 +115,7 @@
       "name": "Storage",
       "scope": "storage",
       "settings": {
-        "foreground": "#008B94"
+        "foreground": "#0ab4c0"
       }
     },
     {
@@ -127,21 +129,21 @@
       "name": "String",
       "scope": ["string", "punctuation.definition.string"],
       "settings": {
-        "foreground": "#68A1F0"
+        "foreground": "#98d66f"
       }
     },
     {
       "name": "String Template",
       "scope": ["string.template", "punctuation.definition.string.template"],
       "settings": {
-        "foreground": "#68A1F0"
+        "foreground": "#718CA1"
       }
     },
     {
       "name": "Support",
       "scope": "support",
       "settings": {
-        "foreground": "#718CA1"
+        "foreground": "#68A1F0"
       }
     },
     {
@@ -202,7 +204,7 @@
       "name": "Variable",
       "scope": "variable",
       "settings": {
-        "foreground": "#718CA1"
+        "foreground": "#68A1F0"
       }
     },
     {
@@ -299,7 +301,7 @@
       "name": "[CSS] - support constant",
       "scope": ["support.constant.property-value.css"],
       "settings": {
-        "foreground": "#718CA1"
+        "foreground": "#68A1F0"
       }
     },
     {
@@ -327,7 +329,7 @@
         "source.stylus punctuation.definition.string"
       ],
       "settings": {
-        "foreground": "#68A1F0"
+        "foreground": "#718CA1"
       }
     },
     {
@@ -365,7 +367,7 @@
         "punctuation.definition.tag.begin.html"
       ],
       "settings": {
-        "foreground": "#718CA1"
+        "foreground": "#68A1F0"
       }
     },
     {
@@ -391,7 +393,7 @@
       "name": "[HTML] - Quotes. ",
       "scope": "punctuation.definition.string.begin, punctuation.definition.string.end",
       "settings": {
-        "foreground": "#68A1F0"
+        "foreground": "#718CA1"
       }
     },
     {
@@ -488,7 +490,7 @@
       "name": "[JSON] - Support",
       "scope": "source.json support",
       "settings": {
-        "foreground": "#718CA1"
+        "foreground": "#68A1F0"
       }
     },
     {
