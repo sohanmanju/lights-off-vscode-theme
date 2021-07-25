@@ -4,6 +4,7 @@
   "description": "Yet another dark theme",
   "publisher": "SohanManju",
   "version": "0.0.1",
+  "icon": "Lightsoff.png",
   "engines": {
     "vscode": "^1.58.0"
   },
