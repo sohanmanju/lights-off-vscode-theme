@@ -1,7 +1,7 @@
 {
   "name": "lights-off",
   "type": "dark",
-  "editor.fontLigatures": "",
+  "author": "deusv0lt",
   "colors": {
     "editor.background": "#0f0f0f",
     "editor.foreground": "#eeffff",
@@ -16,6 +16,7 @@
     "activityBar.activeBackground": "#161616",
     "titleBar.activeBackground": "#161616"
   },
+
   "tokenColors": [
     {
       "name": "Comment",
