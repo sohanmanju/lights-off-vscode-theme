@@ -29,8 +29,5 @@
         "path": "./themes/lights-off-color-theme.json"
       }
     ]
-  },
-  "dependencies": {
-    "vsce": "^1.96.1"
   }
 }
